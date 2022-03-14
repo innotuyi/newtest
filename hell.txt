@@ -1,7 +1,3 @@
 Hello World! merge this line with conflict 
-
-
-
-
-
 Hey I'm testing git
+another update
