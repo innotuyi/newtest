@@ -1,4 +1,7 @@
-Hello World! merge this line with conflict 
+Hello World! merge this line with conflict
+Hey I'm testing git
+another update
+=======
 
 
 
@@ -13,5 +16,4 @@ try this also;
 
 and this 
 
-and this
 git init Ndagaswi
